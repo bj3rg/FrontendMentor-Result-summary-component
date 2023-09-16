@@ -2,7 +2,8 @@
 
 # # Links
 
-Solution URL: 
+Solution URL: https://github.com/bj3rg/FrontendMentor-Result-summary-component
+
 Live Site URL: 
 
 # # Built with
