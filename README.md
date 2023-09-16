@@ -4,7 +4,7 @@
 
 Solution URL: https://github.com/bj3rg/FrontendMentor-Result-summary-component
 
-Live Site URL: 
+Live Site URL: https://bj3rg.github.io/FrontendMentor-Result-summary-component/
 
 # # Built with
 - HTML5
